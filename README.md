@@ -10,7 +10,7 @@
 - Animation effects to enhance the user interface.
 
 ## Live Page
-Check out the live page of the project [here](). 
+Check out the live page of the project [here](https://alaakholif.github.io/DevFolio/). 
 
 ## Notes
 - This project is for educational purposes and HTML/CSS/Bootstrap practice with added animation effects.
